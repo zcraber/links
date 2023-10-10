@@ -18,10 +18,6 @@
       url: https://adobe.ly/39Ua7jb
       icon: simple-icons:adobe
 
-    - title: Shutterstock
-      url: https://shutr.bz/2Y7WZQO
-      icon: simple-icons:shutterstock
-
     - title: Depositphotos
       url: https://bit.ly/2WnklBq
       icon: material-symbols:image
@@ -36,7 +32,7 @@
 
     - title: Alamy
       url: https://www.alamy.com/portfolio/malayali
-      icon: simple-icons:shutterstock
+      icon: material-symbols:image
 
     - title: Bigstock
       url: https://www.bigstockphoto.com/search/?contributor=malayali
@@ -88,7 +84,7 @@
   items:
     - title: Posterspy
       url: https://unsplash.com/@josephvm
-      icon: simple-icons:unsplash
+      icon: ri:film-fill
 
     - title: Quora
       url: https://www.quora.com/profile/Joseph-V-M

@@ -1,29 +1,59 @@
-- name: facebook
-  url: https://www.facebook.com/example
-  icon: ri:facebook-fill
-  color: '#1877F2'
+- name: x
+  url: https://x.com/JosephVM2
+  icon: line-md:twitter-x
+  color: '#FF2322'
 
 - name: instagram
-  url: https://www.instagram.com/example
-  icon: ri:instagram-fill
-  color: '#E4405F'
+  url: https://instagram.com/designerjoseph
+  icon: line-md:instagram
+  color: '#FF2322'
 
-- name: x
-  url: https://x.com/example
-  icon: ri:twitter-x-fill
-  color: '#1D9BF0'
-
-- name: mastodon
-  url: https://mastodon.social/@example
-  icon: ri:mastodon-fill
-  color: '#6364FF'
-
-- name: whatsapp
-  url: https://wa.me/1XXXXXXXXXX
-  icon: ri:whatsapp-fill
-  color: '#25D366'
+- name: facebook
+  url: https://www.facebook.com/josephvmnbr/
+  icon: line-md:facebook
+  color: '#FF2322'
 
 - name: youtube
-  url: https://www.youtube.com/@example
-  icon: ri:youtube-fill
-  color: '#FF0000'
+  url: https://www.youtube.com/@JosephVM
+  icon: mdi:youtube
+  color: '#FF2322'
+
+- name: linkedin
+  url: https://www.linkedin.com/in/josephvm
+  icon: line-md:linkedin
+  color: '#FF2322'
+
+- name: github
+  url: https://github.com/zcraber
+  icon: line-md:github-loop
+  color: '#FF2322'
+
+- name: behance
+  url: https://www.behance.net/josephvm
+  icon: ri:behance-fill
+  color: '#FF2322'
+
+- name: odysee
+  url: https://odysee.com/@josephvm
+  icon: simple-icons:odysee
+  color: '#FF2322'
+
+- name: telegram
+  url: https://t.me/josephvm
+  icon: line-md:telegram
+  color: '#FF2322'
+
+- name: reddit
+  url: https://reddit.com/u/zcraber
+  icon: line-md:reddit-circle-loop
+  color: '#FF2322'
+
+- name: mastodon
+  url: https://techhub.social/@josephvm
+  icon: line-md:mastodon
+  color: '#FF2322'
+
+- name: pinterest
+  url: https://www.pinterest.com/josephvm/
+  icon: mdi:pinterest
+  color: '#FF2322'

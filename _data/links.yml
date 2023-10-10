@@ -1,23 +1,95 @@
-- category: Blogs
+- category: Buy Merch
   items:
-    - title: Example
-      url: https://www.example.com
-      icon: ri:film-fill
-      tag: New
+    - title: Redbubble
+      url: https://rdbl.co/2sH8rbn
+      icon: simple-icons:redbubble
 
-    - title: Example 2
-      url: https://www.example.org
-      icon: simple-icons:googlenews
+    - title: Spreadshop
+      url: https://josephvm.myspreadshop.com/
+      icon: simple-icons:spreadshirt
 
-- category: Products
+- category: Buy Stock Photos
   items:
-    - title: Example 3
-      url: https://www.example.com
-      icon: ri:ball-pen-fill
+    - title: Shutterstock
+      url: https://shutr.bz/2Y7WZQO
+      icon: simple-icons:shutterstock
 
-- category: Works
+    - title: Adobe Stock
+      url: https://adobe.ly/39Ua7jb
+      icon: simple-icons:adobe
+
+    - title: Shutterstock
+      url: https://shutr.bz/2Y7WZQO
+      icon: simple-icons:shutterstock
+
+    - title: Depositphotos
+      url: https://bit.ly/2WnklBq
+      icon: material-symbols:image
+
+    - title: 123RF
+      url: https://www.123rf.com/profile_malayali
+      icon: material-symbols:image
+
+    - title: Dreamstime
+      url: https://www.dreamstime.com/malayalistock-portfolio
+      icon: material-symbols:image
+
+    - title: Alamy
+      url: https://www.alamy.com/portfolio/malayali
+      icon: simple-icons:shutterstock
+
+    - title: Bigstock
+      url: https://www.bigstockphoto.com/search/?contributor=malayali
+      icon: material-symbols:image
+
+    - title: Pond5
+      url: https://www.pond5.com/artist/malayali
+      icon: material-symbols:image
+
+    - title: Picxy
+      url: https://www.picxy.com/malayali
+      icon: material-symbols:image
+
+- category: Buy Graphics/Templates/Audio
   items:
-    - title: Example 4
-      url: https://www.example.org
-      icon: clarity:language-solid
-      tag: Sale
+    - title: GraphicRiver
+      url: https://graphicriver.net/user/malayali/portfolio
+      icon: mdi:art
+
+    - title: Gumroad
+      url: https://gumroad.com/malayali
+      icon: simple-icons:gumroad
+
+    - title: AudioJungle
+      url: https://audiojungle.net/user/malayali
+      icon: material-symbols:audio-file
+
+- category: Hire me for Freelance
+  items:
+    - title: Fiverr
+      url: https://www.fiverr.com/josephvm
+      icon: jam:fiverr
+
+    - title: 99designs
+      url: https://99designs.com/profiles/josephvm
+      icon: bxl:99designs
+
+- category: Download Free Stock Photos
+  items:
+    - title: Unsplash
+      url: https://unsplash.com/@josephvm
+      icon: simple-icons:unsplash
+
+    - title: Pixabay
+      url: https://pixabay.com/users/josephvm
+      icon: simple-icons:pixabay
+
+- category: Other
+  items:
+    - title: Posterspy
+      url: https://unsplash.com/@josephvm
+      icon: simple-icons:unsplash
+
+    - title: Quora
+      url: https://www.quora.com/profile/Joseph-V-M
+      icon: simple-icons:quora

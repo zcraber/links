@@ -1,18 +1,4 @@
-- name: Instagram
+- name: YouTube Shorts
   items:
-    - url: https://www.example.com
-      image: https://picsum.photos/700/400 # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
-
-    - url: https://www.example.org
-      image: https://picsum.photos/500
-
-    - url: https://www.example.com
-      image: https://picsum.photos/250/300
-
-- name: YouTube
-  items:
-    - url: https://www.example.com
-      image: https://picsum.photos/300/400
-
-    - url: https://www.example.org
-      image: https://picsum.photos/400/500
+    - url: https://pastebin.com/muuNYaJK
+      image: https://i.ytimg.com/vi/63qZdWxkOhI/oar2.jpg

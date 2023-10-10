@@ -8,6 +8,12 @@
       url: https://josephvm.myspreadshop.com/
       icon: simple-icons:spreadshirt
 
+- category: Affiliate Links
+  items:
+    - title: Amazon
+      url: https://www.amazon.in/shop/josephvm
+      icon: simple-icons:amazon
+
 - category: Buy Stock Photos
   items:
     - title: Shutterstock
@@ -85,6 +91,10 @@
     - title: Posterspy
       url: https://unsplash.com/@josephvm
       icon: ri:film-fill
+
+    - title: Kit
+      url: https://kit.co/josephvm/gear-i-use
+      icon: simple-icons:kit
 
     - title: Quora
       url: https://www.quora.com/profile/Joseph-V-M

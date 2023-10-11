@@ -15,7 +15,7 @@
 
 - name: youtube
   url: https://www.youtube.com/@JosephVM
-  icon: line-md:youtube
+  icon: mdi:youtube
   color: '#FF2322'
 
 - name: linkedin

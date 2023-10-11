@@ -1,5 +1,29 @@
 - name: YouTube Shorts
   ratio: vertical
   items:
+    - url: https://voters.eci.gov.in/
+      image: https://i.ytimg.com/vi/MlcgLEKhaxw/oar2.jpg
+      
+    - url: https://play.google.com/store/apps/details?id=com.netlink.app
+      image: https://i.ytimg.com/vi/FfbFMFQ18og/oar2.jpg
+      
+    - url: https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes
+      image: https://i.ytimg.com/vi/8sa7oUEgJKQ/oar2.jpg
+            
+    - url: https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status
+      image: https://i.ytimg.com/vi/GKc0pv1OOQA/oar2.jpg
+            
+    - url: https://gitwhois.com/
+      image: https://i.ytimg.com/vi/XU_GNn0zvmA/oar2.jpg
+            
+    - url: https://simplepdf.eu/
+      image: https://i.ytimg.com/vi/Kgb5kqTrVu8/oar2.jpg
+            
+    - url: https://www.photopea.com/
+      image: https://i.ytimg.com/vi/YQTdNhotq4g/oar2.jpg
+      
     - url: https://pastebin.com/muuNYaJK
       image: https://i.ytimg.com/vi/63qZdWxkOhI/oar2.jpg
+
+    - url: https://t.me/webpagebot
+      image: https://i.ytimg.com/vi/BbBWVkVprDU/oar2.jpg

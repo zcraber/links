@@ -13,6 +13,7 @@ twitter:
   card: Freelance graphic designer & YouTuber from Kerala. 🎨🌴💻
 image:
   path: assets/images/profile.jpg #Used for SEO
+  type: jpeg
   height: 100
   width: 100
   alt: profile
@@ -21,10 +22,6 @@ image:
 badge: true  # Set to 'true' or 'false' to enable / disable the badge
 icon: material-symbols:verified  # Enter the icon name for the badge from Iconify Design (https://icon-sets.iconify.design/)
 color: '#179DF1'  # Define the color of the badge
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
  
 # Defaults
 defaults:
@@ -35,4 +32,4 @@ defaults:
       layout: "default"    
 
 # Exclude
-exclude: [README.md, Gemfile.lock, .jekyll-cache/, .github/, Gemfile, LICENSE.txt, funding.yml, linkhub-jekyll-theme.gemspec]
+exclude: [README.md, Gemfile.lock, .jekyll-cache/, .github/, CHANGELOG.md, Gemfile, LICENSE.txt, funding.yml, linkhub-jekyll-theme.gemspec]

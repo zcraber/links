@@ -70,7 +70,7 @@
   items:
     - title: Fiverr
       url: https://www.fiverr.com/josephvm
-      icon: jam:fiverr
+      icon: simple-icons:fiverr
 
     - title: 99designs
       url: https://99designs.com/profiles/josephvm

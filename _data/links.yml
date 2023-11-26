@@ -26,7 +26,7 @@
 
     - title: Depositphotos
       url: https://bit.ly/2WnklBq
-      icon: material-symbols:image
+      icon: simple-icons:depositphotos
 
     - title: 123RF
       url: https://www.123rf.com/profile_malayali
@@ -34,7 +34,7 @@
 
     - title: Dreamstime
       url: https://www.dreamstime.com/malayalistock-portfolio
-      icon: material-symbols:image
+      icon: simple-icons:dreamstime
 
     - title: Alamy
       url: https://www.alamy.com/portfolio/malayali

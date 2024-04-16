@@ -49,7 +49,7 @@
   color: '#FF2322'
 
 - name: mastodon
-  url: https://techhub.social/@josephvm
+  url: https://mastodon.social/@josephvm
   icon: line-md:mastodon
   color: '#FF2322'
 

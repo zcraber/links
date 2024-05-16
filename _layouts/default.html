@@ -17,7 +17,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="{{ site.url }}"/>
     <meta property="og:locale" content="{{ site.locale }}"/>
-    <meta property="og:image" content="{{ site.image.path }}"/>
+    <meta property="og:image" content="{{ site.url }}/{{ site.image.path }}"/>
     <meta property="og:image:type" content="image/{{ site.image.type }}"/>
     <meta property="og:image:width" content="{{ site.image.width }}">
     <meta property="og:image:height" content="{{ site.image.height }}">
@@ -26,7 +26,7 @@
     <meta name="twitter:site" content="@{{ site.twitter.username }}" />
     <meta name="twitter:title" content="{{ site.name }}" />
     <meta name="twitter:description" content="{{ site.description }}" />
-    <meta name="twitter:image" content="{{ site.image.path }}" />
+    <meta name="twitter:image" content="{{ site.url }}/{{ site.image.path }}" />
 </head>
 
 <body>
@@ -34,9 +34,9 @@
         <header>
             <div class="top is-center is-vertical-align">
                 <img class="is-rounded" width="75px" height="75px" src="{{ site.logo }}" alt="logo">
-                <h3>{{ site.name }}{% if site.badge == true %}<span class="iconify-inline badge"
+                <h3 class="text-center">{{ site.name }}{% if site.badge == true %}<span class="iconify-inline badge"
                         data-icon="{{ site.icon }}" style="color: {{ site.color }}"></span>{% endif %}</h3>
-                <p>{{ site.description }}</p>
+                <p class="text-center">{{ site.description }}</p>
             </div>
         </header>
 

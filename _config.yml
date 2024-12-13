@@ -5,7 +5,9 @@ theme: linkhub-jekyll-theme
 name: Joseph V M  # Name of your website
 tagline: Links  # Set your preferred page title
 description: All of my links can be found here! 🎨🌴💻  # Also used as a meta description
-favicon: assets/images/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
+favicon: 
+  path: assets/images/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
+  type: png
 logo: assets/images/profile.jpg # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://links.josephvm.in # URL of your website
 ga4: G-7836EW5HKD

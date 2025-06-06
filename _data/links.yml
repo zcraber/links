@@ -57,6 +57,10 @@ buttons:
         url: https://www.alamy.com/portfolio/malayali
         icon: simple-icons:alamy
 
+      - title: VectorStock
+        url: https://www.vectorstock.com/royalty-free-vectors/vectors-by_malayali
+        custom-icon: <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 256 256"><path d="M256 64V0h-64v16H64V0H0v64h16v128H0v64h64v-16h128v16h64v-64h-16V64h16ZM48 240H16v-32h32v32Zm192 0h-32v-32h32v32Zm-16-48h-32v32H64v-32H32V64h32V32h128v32h32v128ZM208 80v16h-16v32h-16v32h-16v32H96v-32H80v-32H64V96H48V80h48v32h16v32h32v-32h16V80h48ZM16 16h32v32H16V16Zm192 32V16h32v32h-32Z" style="fill-rule:nonzero"/></svg>
+
       - title: Bigstock
         url: https://www.bigstockphoto.com/search/?contributor=malayali
         icon: material-symbols:image

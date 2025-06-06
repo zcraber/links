@@ -28,6 +28,16 @@
   icon: line-md:github-loop
   color: '#FF2322'
 
+- name: mastodon
+  url: https://mastodon.social/@josephvm
+  icon: line-md:mastodon
+  color: '#FF2322'
+
+- name: pixelfed
+  url: https://pixelfed.social/josephvm
+  icon: line-md:pixelfed
+  color: '#FF2322'
+
 - name: behance
   url: https://www.behance.net/josephvm
   icon: ri:behance-fill
@@ -46,11 +56,6 @@
 - name: reddit
   url: https://reddit.com/u/zcraber
   icon: line-md:reddit-circle-loop
-  color: '#FF2322'
-
-- name: mastodon
-  url: https://mastodon.social/@josephvm
-  icon: line-md:mastodon
   color: '#FF2322'
 
 - name: pinterest

@@ -69,10 +69,6 @@ buttons:
         url: https://www.pond5.com/artist/malayali
         icon: simple-icons:pond5
 
-      - title: Picxy
-        url: https://www.picxy.com/malayali
-        icon: simple-icons:picxy
-
   - category: Buy Graphics/Templates/Audio
     items:
       - title: GraphicRiver
